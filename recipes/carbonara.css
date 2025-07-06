@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color: yellow;
+}
+
+h1{
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    color: black;
+}
+
+h2{
+    font-size: large;
+    font-weight: 500;
+    font-style: italic;
+    color:red;
+}
+
+h3{
+    font-size: large;
+    font-weight: bold;
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+

@@ -1,0 +1,39 @@
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    font-weight: bold;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    background-color: blueviolet;
+}
+
+ul{
+    color: gold;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ol{
+    color: silver;
+    background-color: blue;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    background-color: aquamarine;
+
+}
+
+h1{
+    font-weight: bolder;
+    font-size: large;
+    background-color: orange;
+}

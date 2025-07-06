@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    color: black;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: initial;
+}
+
+h2{
+    color: forestgreen;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: normal;
+}
+
+h3{
+    color: purple;
+    font-size: larger;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    color: black;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
+
+ul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: medium;
+    color: tomato;
+    
+}
